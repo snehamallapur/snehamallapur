@@ -1,6 +1,7 @@
 👋🏽 Hi, I’m @SnehaMallapur
 
 🔹 I’m passionate about Embedded Systems Development
+
 🔹 Currently working with Rust and STM32 for microcontroller communication
 🔹 I’m interested in Embedded Linux, RTOS, and Automotive Software 
 🔹 I love building independent projects using Raspberry Pi & ARM-based MCUs
